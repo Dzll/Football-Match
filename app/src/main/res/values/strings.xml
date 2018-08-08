@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Football Match</string>
+
+    <array name="nextPrev">
+        <item>Prev Match</item>
+        <item>Next Match</item>
+    </array>
+</resources>
